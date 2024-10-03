@@ -1,23 +1,24 @@
-# Hi there, I'm ColoredBeing! 👋
+# Hi there, I'm ColoredBeing!
 
 Welcome to my Github! This is what I do :D
 
-## Learning Journey 🌱
+## Learning Journey 
 
-- 🚀 Currently diving into the world of web development.
-- 🌐 Exploring HTML, CSS, and JavaScript for frontend magic.
-- 🧠 Eager to absorb knowledge and improve my coding skills.
+- Currently diving into the world of web development.
+- Exploring HTML, CSS, and JavaScript for frontend magic.
+- Eager to absorb knowledge and improve my coding skills.
 
-## What I've Been Up To 🚀
+## What I've Been Up To 
 
-- 🎮 Created a fun distraction game with flashing lights. I really suggest u check it out!
-- 💻 Explored and tweaked code for an interactive block-catching game.
-- 🎨 Played with a bunch of gradients and animations for visually appealing designs.
+-  Created a fun distraction game with flashing lights. I really suggest u check it out!
+-  Explored and tweaked code for an interactive block-catching game.
+-  Played with a bunch of gradients and animations for visually appealing designs.
 - $ Made a Tic Tac Toe project!
+- Made an online business card
 
 ## Contacts
 
-- 📫 Email: coloredbeing@gmail.com
+-  Email: coloredbeing@gmail.com
 -  (I'll provide my LinkedIn via my email for privacy reasons)
 
 ## Projects I'm Proud Of 🚧
