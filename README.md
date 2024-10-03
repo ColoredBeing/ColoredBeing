@@ -21,10 +21,12 @@ Welcome to my Github! This is what I do :D
 -  Email: coloredbeing@gmail.com
 -  (I'll provide my LinkedIn via my email for privacy reasons)
 
-## Projects I'm Proud Of 🚧
+## Projects I'm Proud Of 
 
 - [Distraction Game] (Project)
 - [Tic Tac Toe] (Project)
+- Business card (Project)
+- Weather app (Project)
 
 Feel free to ask me anything, and don't hesitate to reach out if you have questions or want to collaborate!
 
